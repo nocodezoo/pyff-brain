@@ -1,1 +1,2 @@
 @AGENTS.md
+@VYBORD_BRAIN.md
